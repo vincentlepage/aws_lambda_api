@@ -1,6 +1,6 @@
 # aws_lambda_api
 
-The goals of this project is to provide the basic component to deploy a scalable, serverless backend infrastructure for Mobile or Web application.
+The goals of this project is to provide the basic components to deploy a scalable, serverless backend infrastructure for Mobile or Web application.
 
 The main architectural choice made:
 - Infrastructure as code, using Terraform. The present code properly executed will build the infrastructure
@@ -19,7 +19,7 @@ Dependencies: you need to have:
 - Terraform installed
 - Python 3.6
 
-## Licence
+## License
 
-This software is provided under the Apache 2.0 licence
-See Licence.md
+This software is provided under the Apache 2.0 license.
+See License.md for details.
